@@ -20,7 +20,7 @@ The focus of this workshop is to present use cases especially for APIs that are 
 
 ### 2. How to use APIs?
 
- - 2.1 [Data formats](2-how/2-1-data-formats)
+ - 2.1 [Data formats](2-how/2-1-data-formats.md)
  - 2.2 [Authentication and Rate limits](2-how/2-2-authentication-and-rate-limits.md)
  - 2.3 [Using APIs via httpie](2-how/2-3-using-apis-via-httpie.md)
  - 2.4 [Using APIs via Python](2-how/2-4-using-apis-via-python.ipynb)
