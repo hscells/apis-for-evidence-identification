@@ -36,5 +36,6 @@ The focus of this workshop is to present use cases especially for APIs that are 
 
  - [APIs for beginners](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
  - [Python for beginners](https://www.freecodecamp.org/news/learn-python-the-right-way/)
+ - [Library Carpentry](https://librarycarpentry.org/lc-python-intro/index.html)
 
 
