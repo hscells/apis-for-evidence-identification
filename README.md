@@ -29,7 +29,7 @@ The focus of this workshop is to present use cases especially for APIs that are 
 
  - 3.1 [Searching PubMed](3-use-cases/3-1-searching-pubmed.ipynb)
  - 3.2 [Searching clinicaltrials.gov](3-use-cases/3-2-searching-clinicaltrials-gov.ipynb)
- - 3.3 [Implementing a synonym finder](3-use-cases/3-3-implementing-a-synonym-finder.ipynb)
+ - 3.3 [Frequency Analysis](3-use-cases/3-3-frequency-analysis.ipynb)
  - 3.4 [Replicating Yale MeSH Analyzer](3-use-cases/3-4-replicating-yale-mesh-analyzer.ipynb)
 
 ## Additional Resources
