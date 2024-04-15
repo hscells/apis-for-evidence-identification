@@ -1,8 +1,12 @@
 # 2.1 Data Formats
 
+When you access an API, you usually get back a response in a machine-readable format like JSON or XML. These formats are used to structure and transmit data between different software applications. In this section, we'll learn more about these data formats and how they are used in APIs.
+
 ## JSON
 
 JSON (JavaScript Object Notation, pronounced /ˈdʒeɪsən/; also /ˈdʒeɪˌsɒn/) is an open standard file format and data interchange format that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and arrays (or other serializable values). It is a commonly used data format with diverse uses in electronic data interchange, including that of web applications with servers. [[wikipedia](https://en.wikipedia.org/wiki/JSON)]
+
+This is the main data format used in APIs because it is easy to read and write, lightweight, and easy to parse. Almost all the APIs we'll be using in this workshop return data in JSON format.
 
 ### Example
 
