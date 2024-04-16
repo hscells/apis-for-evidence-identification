@@ -28,5 +28,5 @@ APIs can be divided into two categories: online and "offline". Online APIs requi
 "Offline" is in quotes since we normally just call these types of APIs "libraries". Libraries are collections of functions and routines that can be used to access data stored locally on your computer. There is an example of using an "offline" API in [Section 3.1](../3-use-cases/3-1-searching-pubmed.ipynb) where we replicate the experiments of [this paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591703) which used ChatGPT to formulate queries, but using our own local large language model.
 
 --- 
-[top](../README.md)<br/>
+[top](../README.md#table-of-contents)<br/>
 [next: Limitations of APIs](1-2-limitations-of-apis.md)<br/>

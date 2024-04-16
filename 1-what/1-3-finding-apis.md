@@ -12,6 +12,6 @@ Actually finding how to access APIs in the first place can be quite difficult. A
 | Wiley Text and Data | The Wiley Text and Data Mining API provides programmatic access to the full text content of Wiley Online Library articles.                                                                                                                                                                                                                                                                                                                     | [documentation](https://onlinelibrary.wiley.com/library-info/resources/text-and-datamining)                                                                                         |
 
 ---
-[top](../README.md)<br/>
+[top](../README.md#table-of-contents)<br/>
 [previous: Limitations of APIs](1-2-limitations-of-apis.md)<br/>
-[next: How to use APIs](../2-how/2-1-data-formats.md)<br/>
+[next: Data Formats](../2-how/2-1-data-formats.md)<br/>

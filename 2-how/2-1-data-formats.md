@@ -82,7 +82,7 @@ John,Smith,true,27,21 2nd Street,New York,NY,10021-3100,"home: 212 555-1234, off
 ``` 
 
 ---
-[top](../README.md)<br/>
+[top](../README.md#table-of-contents)<br/>
 [previous: Finding APIs](../1-what/1-3-finding-apis.md)<br/>
 [next: Authentication and Rate limits](2-2-authentication-and-rate-limits.md)<br/>
 

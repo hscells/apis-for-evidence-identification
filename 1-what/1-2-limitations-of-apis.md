@@ -23,6 +23,6 @@ This workshop tries to start from the basics and build up to more complex topics
 All of the later chapters that have some programming component will be using Python. That being said, the content is written in such a way that you should still be able to play around with the interactive code cells even if you're not familiar with Python.
 
 ---
-[top](../README.md)<br/>
+[top](../README.md#table-of-contents)<br/>
 [previous: Conceptual introduction to APIs](1-1-conceptual-introduction.md)<br/>
 [next: How to find APIs](1-3-finding-apis.md)<br/>

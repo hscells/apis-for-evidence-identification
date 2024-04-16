@@ -39,6 +39,6 @@ In this section, we learned how to use APIs via HTTPie. We learned how to make r
 Unfortunately though, HTTPie just lets us view the responses. In the next section, we'll learn how to use Python to interact with APIs and do more advanced things like data analysis and visualization.
 
 ---
-[top](../README.md)<br/>
+[top](../README.md#table-of-contents)<br/>
 [previous: Data formats](2-1-data-formats.md)<br/>
 [next: Using APIS via httpie](2-3-using-apis-via-httpie.md)<br/>
