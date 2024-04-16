@@ -41,7 +41,7 @@ Below contains the table of contents for the workshop. The interactive notebooks
 ## Additional Resources
 
  - [APIs for beginners](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
- - [Python for beginners](https://www.freecodecamp.org/news/learn-python-the-right-way/)
+ - [Python for data analysis](https://www.freecodecamp.org/learn/data-analysis-with-python/)
  - [Library Carpentry](https://librarycarpentry.org/lc-python-intro/index.html)
 
 
