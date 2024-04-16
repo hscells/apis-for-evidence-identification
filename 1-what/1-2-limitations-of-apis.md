@@ -4,15 +4,13 @@ APIs are a powerful tool for automating lots of things, including information re
 
 ## Accessibility
 
-Not all APIs are free to use. Some APIs require a subscription or payment to access. Some APIs are only available to certain users or organizations. Some APIs have rate limits, which restrict the number of requests you can make in a given time period. Some APIs have usage limits, which restrict the amount of data you can access. Some APIs have restrictions on the types of data you can access or how you can use the data.
+Not all APIs are free to use. Some APIs require a subscription or payment. Some APIs are only available to certain users or organizations. Some APIs have rate limits, which restrict the number of requests you can make in a given time period. Some APIs have usage limits, which restrict the amount of data you can access. Some APIs have restrictions on the types of data you can access or how you can use the data.
 
 While all the APIs we'll be using in this workshop are free to use, it's important to be aware of these limitations when working with APIs. Excessive use of an API can result in your access being restricted or revoked, especially for free APIs.
 
 ## Data Privacy
 
-When you use an API, you are sending and receiving data over the internet. This data can be intercepted or monitored by third parties. It's important to be aware of the privacy and security implications of using APIs, especially when working with sensitive or confidential data.
-
-The best way to protect your data when using APIs is to use secure connections (HTTPS) and to follow best practices for data security. This includes encrypting your data, using strong passwords, and keeping your software up to date. It can be easy to send sensitive data over an insecure connection, so it's important to be vigilant when working with APIs.
+When you use an API, you are sending and receiving data over the internet. This data can be intercepted or monitored by third parties respectively the provider of the API. It's important to be aware of the privacy and security implications of using APIs, especially when working with sensitive or confidential data. Best practices include (but are not limited to): (1) using secure connections (HTTPS), (2) encrypting your data, (3) using strong passwords, and (4) keeping your software up to date. It can be easy to send sensitive data over an insecure connection that can be intercepted by any third party on the network route, so it's important to be vigilant when working with APIs.
 
 ## Complexity
 
