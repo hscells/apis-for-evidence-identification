@@ -28,7 +28,7 @@ Below contains the table of contents for the workshop. The interactive notebooks
 
  - 2.1 [Data Formats](2-how/2-1-data-formats.md)
  - 2.2 [Authentication and Rate limits](2-how/2-2-authentication-and-rate-limits.md)
- - 2.3 [Using APIs via httpie](2-how/2-3-using-apis-via-httpie.md)
+ - 2.3 [Using APIs via HTTPie](2-how/2-3-using-apis-via-httpie.md)
  - 2.4 [Using APIs via Python](2-how/2-4-using-apis-via-python.ipynb)
 
 ### 3. Use cases for APIs
