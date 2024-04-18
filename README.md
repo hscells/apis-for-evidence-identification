@@ -2,7 +2,7 @@
 
 _This invited workshop was part of [IQWiG](https://www.iqwig.de/en/)'s [Information Retrieval Meeting 2024](https://www.iqwig.de/en/events/information-retrieval-meeting/)_
 
-This is the supplementary material for the workshop. It includes interactive notebooks that can be run in your browser. The notebooks let you edit and play with the code and data that are used in the workshop. 
+This is the supplementary material for the workshop. It includes interactive notebooks that you can execute in your browser. The notebooks let you edit and play with the code and data that are used in the workshop. 
 
 ---
 
@@ -12,7 +12,7 @@ More and more APIs (application programming interfaces) are used as programmatic
  - offline versus online APIs
  - using APIs via Python
 
-The focus of this workshop is to present use cases especially for APIs that are already available. This workshop explains what API use cases exist, what they are used for and how average information specialist can use them. 
+The focus of this workshop is to present use cases especially for frequently used APIs. This workshop explains what API use cases exist, what they are used for and how information specialists can use them in their daily workflows.
 
 ## Table of contents
 
@@ -43,5 +43,3 @@ Below contains the table of contents for the workshop. The interactive notebooks
  - [APIs for beginners](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
  - [Python for data analysis](https://www.freecodecamp.org/learn/data-analysis-with-python/)
  - [Library Carpentry](https://librarycarpentry.org/lc-python-intro/index.html)
-
-
