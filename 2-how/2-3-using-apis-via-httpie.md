@@ -41,4 +41,4 @@ Unfortunately though, HTTPie just lets us view the responses. In the next sectio
 ---
 [top](../README.md#table-of-contents)<br/>
 [previous: Data formats](2-1-data-formats.md)<br/>
-[next: Using APIS via Python](2-3-using-apis-via-python.ipynb)<br/>
+[next: Using APIS via Python](2-4-using-apis-via-python.ipynb)<br/>
