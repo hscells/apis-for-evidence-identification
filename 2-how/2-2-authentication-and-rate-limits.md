@@ -24,4 +24,4 @@ You can request an API key from NCBI to increase your rate limit. This will allo
 ---
 [top](../README.md#table-of-contents)<br/>
 [previous: Data formats](2-1-data-formats.md)<br/>
-[next: Using APIS via HTTPie](2-3-using-apis-via-httpie.ipynb)<br/>
+[next: Using APIS via HTTPie](2-3-using-apis-via-httpie.md)<br/>
